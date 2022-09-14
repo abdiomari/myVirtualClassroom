@@ -1,5 +1,5 @@
 # myVirtualClassroom
-A Schhol project for a virtual classroom as a collaborative tool to assist students learn in an interactive manner
+A School project for a virtual classroom as a collaborative tool to assist students learn in an interactive manner
 It aims to complement the efforts of teachers to integrate technology into their classrooms and link the students to the internet in educationally productive ways 
 and provide them with a positive stimulating environment study.
 
