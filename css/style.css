@@ -171,7 +171,7 @@ header {
 /*=============CATEGORIES===========*/
 .categories {
     background: var(--color-bg1);
-    height: 45rem;
+    height: 70rem;
 }
 
 .categories h1 {
@@ -209,24 +209,6 @@ header {
     box-shadow: 0 3rem 3rem rgba(0, 0, 0, 0.3);
     z-index: 1;
 } 
-
-/*.category:nth-child(2).category__icon{ 
-    background: var(--color-danger);
-}
-
-.category__icon{
-    background: var(--color-primary);
-    padding: 0.7rem;
-    border-radius: 0.9rem;
-}
-
-.caregory h5{
-    margin: 2rem 0 1rem;
-}
-
-.category p{
-    font-size: 0.85rem;
-}*/
 
 /*=============POPULAR COURSES===========*/
 .courses {
@@ -351,6 +333,3 @@ footer ul li a:hover {
 }
 /*=============END OF TABLETS DISPLAY===========*/
 
-/*=============PHONES DISPLAY===========*/
-
-/*=============END OF PHONES DISPLAY===========*/
