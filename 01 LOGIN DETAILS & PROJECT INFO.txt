@@ -1,10 +1,7 @@
-**Log on to codeastro.com for more projects!***
+
 
 **Database Name: onlclassroom**
 
-**Developed by Vishal Mathur**
-
-**Recommended PHP Version 5.6 or Newer**
 
 
 **Admin Login Details**
@@ -14,12 +11,12 @@ Password: admin
 
 **Student Login Details**
 
-Email   : robert@gmail.com
-Password: password
+Email   : abdiomari145@gmail.com
+Password: abdi
 
 **Faculty Login Details**
 
-ID      : 108
-Password: 101010
+ID      : 101
+Password: 001
 
 
